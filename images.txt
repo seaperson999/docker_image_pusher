@@ -9,3 +9,4 @@ grafana/loki:2.9.2
 grafana/promtail:2.9.2
 mysql/mysql-server:latest
 redis:7.2.4
+prom/alertmanager:latest
