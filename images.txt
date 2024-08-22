@@ -10,3 +10,4 @@ grafana/promtail:2.9.2
 mysql/mysql-server:latest
 redis:7.2.4
 prom/alertmanager:latest
+easzlab/kubeasz:3.6.4
