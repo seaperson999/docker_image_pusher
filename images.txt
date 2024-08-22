@@ -1,4 +1,4 @@
-easzlab/kubeasz-ext-bin:1.10.1
-easzlab/pause:3.9
-easzlab/k8s-dns-node-cache:1.22.28
-easzlab/metrics-server:v0.7.1
+calico/cni:v3.26.4
+calico/node:v3.26.4
+calico/kube-controllers:v3.26.4
+
