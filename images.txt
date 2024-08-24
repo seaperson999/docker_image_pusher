@@ -1,2 +1,2 @@
-easzlab/k8s-dns-node-cache:1.22.28
+easzlab/nfs-subdir-external-provisioner:v4.0.2
 
