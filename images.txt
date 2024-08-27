@@ -1,2 +1,2 @@
-easzlab/nfs-subdir-external-provisioner:v4.0.2
+bitnami/mysql:8.0.34-debian-11-r56
 
